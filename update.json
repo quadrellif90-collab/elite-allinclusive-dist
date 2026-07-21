@@ -1,0 +1,11 @@
+{
+  "product": "Elite Allinclusive Gest",
+  "version": "v1.0.0",
+  "notes": "Rilascio iniziale pubblico.",
+  "windows": {
+    "exe": "EliteAllinclusiveGest.exe",
+    "updater": "EliteAllinclusiveGestUpdater.exe",
+    "release_url": "https://github.com/quadrellif90-collab/elite-allinclusive-dist/releases/download/v1.0.0/EliteAllinclusiveGest.exe",
+    "updater_url": "https://github.com/quadrellif90-collab/elite-allinclusive-dist/releases/download/v1.0.0/EliteAllinclusiveGestUpdater.exe"
+  }
+}

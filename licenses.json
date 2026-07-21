@@ -1,0 +1,706 @@
+{
+  "product": "Elite Allinclusive Gest",
+  "count": 100,
+  "licenses": [
+    {
+      "key": "GPJK-BLW2-MRRG-U3WA",
+      "cliente": "Cliente #1",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "W8LF-7PJR-NAHW-ABM5",
+      "cliente": "Cliente #2",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "U6MW-E275-3QS7-6ZDT",
+      "cliente": "Cliente #3",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "25ZR-W6K3-FQY8-PX4A",
+      "cliente": "Cliente #4",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "TGWQ-RN4F-YJBJ-FS7X",
+      "cliente": "Cliente #5",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "QZWT-TTNX-H8EW-A9F6",
+      "cliente": "Cliente #6",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "WLAX-KZJL-95N4-4LXT",
+      "cliente": "Cliente #7",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "ZXBV-X4EW-3JW6-JMT7",
+      "cliente": "Cliente #8",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "GFZW-77JR-KVLM-GKF3",
+      "cliente": "Cliente #9",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "LX3Y-YLJX-JE4T-WW47",
+      "cliente": "Cliente #10",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "LHMH-4WZ9-VT6V-63MS",
+      "cliente": "Cliente #11",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SGFE-JQX6-LTTU-AR7L",
+      "cliente": "Cliente #12",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "YK5D-89PW-JW29-2YX9",
+      "cliente": "Cliente #13",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "X8KY-SY25-5NKF-BB6U",
+      "cliente": "Cliente #14",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "MEND-SDXA-SX2U-BCEM",
+      "cliente": "Cliente #15",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "KCJQ-EN8B-MXCJ-8M6V",
+      "cliente": "Cliente #16",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "4X2F-8WXQ-ZMAW-TBQM",
+      "cliente": "Cliente #17",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "VYZZ-8AVQ-CKFB-8BTQ",
+      "cliente": "Cliente #18",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "4NG7-CVY4-9GYQ-65GQ",
+      "cliente": "Cliente #19",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "FB9H-VHKR-ZPSX-DU9G",
+      "cliente": "Cliente #20",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "EFVJ-4FPL-M3RF-NEE3",
+      "cliente": "Cliente #21",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "8XWZ-2ZPX-5GZ2-HLG3",
+      "cliente": "Cliente #22",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "BKPZ-TXA7-PZX6-VBE3",
+      "cliente": "Cliente #23",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "5FDB-XZTE-QH3D-299Z",
+      "cliente": "Cliente #24",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "92EE-3TN2-EWHN-WZHJ",
+      "cliente": "Cliente #25",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "A4PR-EEMD-K873-5QDQ",
+      "cliente": "Cliente #26",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "WBEN-92KQ-KW7Q-DKHC",
+      "cliente": "Cliente #27",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "TE3M-VPEG-S5YT-T6VY",
+      "cliente": "Cliente #28",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SWBH-2YGU-PGJ3-SP9V",
+      "cliente": "Cliente #29",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "TJYC-LNF9-KH5J-DE4E",
+      "cliente": "Cliente #30",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "VXD8-R3KD-XG25-7VMR",
+      "cliente": "Cliente #31",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "E7DM-CVHC-W7LY-6CNN",
+      "cliente": "Cliente #32",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "3WQ3-E8MT-6M2Z-KBQS",
+      "cliente": "Cliente #33",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "97YE-Q6FX-ZE7H-SQZY",
+      "cliente": "Cliente #34",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "6NXL-87V6-NMSV-CVR5",
+      "cliente": "Cliente #35",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "JVUA-EMKF-5CP8-6EHH",
+      "cliente": "Cliente #36",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "7ZHX-R3B6-96RV-MSSD",
+      "cliente": "Cliente #37",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "6LMR-GR7N-68L4-N67S",
+      "cliente": "Cliente #38",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "PSAT-B3F7-HUUV-J5K3",
+      "cliente": "Cliente #39",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "DPMV-GTSE-BVJW-MBYD",
+      "cliente": "Cliente #40",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "ELVM-2JMQ-V5G5-4FFV",
+      "cliente": "Cliente #41",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "7VMV-EZN7-9QGP-8CP4",
+      "cliente": "Cliente #42",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "DFQ2-5REW-UNWZ-6JQN",
+      "cliente": "Cliente #43",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "S6AC-V3JU-S8PX-XAD9",
+      "cliente": "Cliente #44",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "FS2B-5HVS-UEEE-SRRD",
+      "cliente": "Cliente #45",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "MGXV-VTPM-UY2P-5SQ9",
+      "cliente": "Cliente #46",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "BV54-86VL-UXTG-UP4Z",
+      "cliente": "Cliente #47",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "52PR-D37Z-6BCR-CMGK",
+      "cliente": "Cliente #48",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "26X8-TAA4-4CZG-K6L3",
+      "cliente": "Cliente #49",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "GR9Q-QCVM-ELAR-BQ2G",
+      "cliente": "Cliente #50",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "4CQE-BVNN-27VR-SGAF",
+      "cliente": "Cliente #51",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "EP34-WUFH-9868-SU2V",
+      "cliente": "Cliente #52",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "V69F-S3WE-UEWW-VDS3",
+      "cliente": "Cliente #53",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "LEMG-5BQU-QBDZ-HPWG",
+      "cliente": "Cliente #54",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "Q9QV-6DHA-598G-CAM6",
+      "cliente": "Cliente #55",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SVG5-PG4P-85FS-8MAN",
+      "cliente": "Cliente #56",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "U4LF-YNPU-VNYT-CW7W",
+      "cliente": "Cliente #57",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "9XJ8-MBD4-8TAB-VN56",
+      "cliente": "Cliente #58",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "DMDQ-H2Y3-4VHV-GL3X",
+      "cliente": "Cliente #59",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "KDWV-X59W-Z3TB-A3QP",
+      "cliente": "Cliente #60",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "Z4VH-YC87-7UTD-4R67",
+      "cliente": "Cliente #61",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "KLAW-NLTQ-UMR7-EZVG",
+      "cliente": "Cliente #62",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SYQH-92L7-YTPL-9GVB",
+      "cliente": "Cliente #63",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "9Z82-WFRA-B7C9-JNJ3",
+      "cliente": "Cliente #64",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SN6A-BZ7X-KCT5-RE9Q",
+      "cliente": "Cliente #65",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "2JWD-L9A6-TE2G-NLZH",
+      "cliente": "Cliente #66",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "HS4E-XJUV-H8JB-LL4E",
+      "cliente": "Cliente #67",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "PQRL-7RU4-3QKF-CLAJ",
+      "cliente": "Cliente #68",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "MWWC-MZV9-N3AF-CY3T",
+      "cliente": "Cliente #69",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "RGAU-RG3U-7E8N-GQZ2",
+      "cliente": "Cliente #70",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "NJWJ-JCUJ-SJBV-8W7M",
+      "cliente": "Cliente #71",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "SRXC-38RE-UQYE-VEC5",
+      "cliente": "Cliente #72",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "HMQ4-5UP6-5LLH-3QBG",
+      "cliente": "Cliente #73",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "VS5H-MDDC-DQEV-3UCC",
+      "cliente": "Cliente #74",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "6X3Z-LLSX-467C-MDBM",
+      "cliente": "Cliente #75",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "BFPC-NY4L-X3CN-N8NC",
+      "cliente": "Cliente #76",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "MKH3-BW4M-HWH5-PBC6",
+      "cliente": "Cliente #77",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "52E9-EL9S-WWZY-P5DT",
+      "cliente": "Cliente #78",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "7ETQ-5JAZ-KQUC-YYPA",
+      "cliente": "Cliente #79",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "QWLN-CX7D-ZJQF-K4CD",
+      "cliente": "Cliente #80",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "PGK4-BYBG-EWW8-KRTT",
+      "cliente": "Cliente #81",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "H3HL-MVDV-C7P5-DZQ7",
+      "cliente": "Cliente #82",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "LA2R-5729-7FLY-4EMP",
+      "cliente": "Cliente #83",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "6TMW-SJRC-LA2C-WQ69",
+      "cliente": "Cliente #84",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "WGRJ-HHNW-XTK8-PZXR",
+      "cliente": "Cliente #85",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "VFQH-7HWV-PAB9-5Y49",
+      "cliente": "Cliente #86",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "XVDT-RWDQ-C3XD-LEFW",
+      "cliente": "Cliente #87",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "6GAD-5A6Q-GBRB-NCBP",
+      "cliente": "Cliente #88",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "DRTK-NBQD-MPEF-Z9BS",
+      "cliente": "Cliente #89",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "ZWTB-SP9S-R82N-JAK5",
+      "cliente": "Cliente #90",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "5F3L-XNJL-V663-G5K8",
+      "cliente": "Cliente #91",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "EQBL-4R8C-2NHV-VMLA",
+      "cliente": "Cliente #92",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "DFQG-6H7D-2MN8-5GB9",
+      "cliente": "Cliente #93",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "FMYR-HR24-E9GW-BD9E",
+      "cliente": "Cliente #94",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "LNLL-BHRJ-7BNM-PVDQ",
+      "cliente": "Cliente #95",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "PYYE-6MNR-3DKQ-UH9V",
+      "cliente": "Cliente #96",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "TLTQ-2W3N-2BUG-WCHB",
+      "cliente": "Cliente #97",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "KMP7-FUAC-PHDQ-828B",
+      "cliente": "Cliente #98",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "N7PQ-JUVH-W6X3-V6MP",
+      "cliente": "Cliente #99",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    },
+    {
+      "key": "KV6X-D8HV-VH6L-5N4E",
+      "cliente": "Cliente #100",
+      "tipo": "standard",
+      "scadenza": "",
+      "note": ""
+    }
+  ]
+}
